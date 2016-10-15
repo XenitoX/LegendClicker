@@ -1,1 +1,1 @@
-# LegendClicker
+# PotatoClicker

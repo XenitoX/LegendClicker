@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E058EC82-147B-A3C5-F3F2-A7C2EB00EF0B}") = "Potato clicker", "Assembly-CSharp.csproj", "{41FB912E-D745-2789-3B33-0CB787644342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41FB912E-D745-2789-3B33-0CB787644342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41FB912E-D745-2789-3B33-0CB787644342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41FB912E-D745-2789-3B33-0CB787644342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41FB912E-D745-2789-3B33-0CB787644342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
