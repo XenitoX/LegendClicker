@@ -4,6 +4,7 @@ using UnityEngine.UI;
 
 public class Click : MonoBehaviour {
 
+
 	public Text DisplayCoins;
 	public Text DisplayPotatoes;
 	public Text DisplaySellFor;
@@ -18,7 +19,6 @@ public class Click : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
 	}
 	
 	// Update is called once per frame
@@ -44,6 +44,6 @@ public class Click : MonoBehaviour {
 	public void SellPotatoes(){
 		Coins += (currPotatoes * sellPrice);
 		currPotatoes = 0;
-	
+
 	}
 }
